@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning Computer Vision and web development too. 
 - 💞️ I’m looking to collaborate on Machine Learning Projects of any kind.
 
-## Connect with me
 
-[](pranshu.kedia.eee21@itbhu.ac.in)
 
 <!---
 pranshu79/pranshu79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
